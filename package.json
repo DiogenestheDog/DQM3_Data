@@ -1,0 +1,24 @@
+{
+  "name": "dqm3",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "processing metalkid's data into something more readable to me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiogenestheDog/DQM3_Data.git"
+  },
+  "keywords": [
+    "Dark",
+    "Prince"
+  ],
+  "author": "Chloe Guthrie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiogenestheDog/DQM3_Data/issues"
+  },
+  "homepage": "https://github.com/DiogenestheDog/DQM3_Data#readme"
+}
